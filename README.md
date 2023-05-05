@@ -1,2 +1,11 @@
-# THE-ANALYSIS-OF-THE-SOCIOECONOMIC-STATUS-OF-10-COUNTRIES
 STATISTICAL ANALYSIS OF THE SOCIOECONOMIC STATUS OF THE G7 COUNTRIES, BRAZIL, CHINA, AND NIGERIA ACROSS TEN YEARS
+
+The Social and Economic development of a country is measured over different indicators in different sector which ranges from the health sector to the educational sector to the import and export sector, even the self-development sector also known as the Human Development Sector and so much more.
+
+In this study, the analysis was done based on the measurement of the Economic conditions and the measurement of the Human Development Index and Component of the selected countries. We also looked at how the countries progressed over time in the urban and rural areas. The data collected from the World Bank Databank contains indicators such as Population, Gross Domestic Product (GDP), Gross National Income (GNI), Life expectancy, Final Consumption and so on.
+
+For this report, a total of 10 countries were selected over a period of 10 years (2011-2020). Seven of these countries are the G7 (Group of seven) countries, also known as the most industrialised countries with advanced economies in the world. They are Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. Nigeria, the country with the largest GDP in Africa was also selected. It is also the most populous country in Africa. China was also selected because of its rank as the country with the second largest economy in the world. It is also the most populous country in Asia. The last country that was selected for the research purpose is Brazil. A country with the largest economy in South America and is also the most populous in its continent. The selection of countries cuts across 5 out of the 7 continents of the world which are Europe, North America, South America, Asia, and Africa which is a good basis and selection for the study of the Social and Economic development of countries in the world.
+
+At the end of this study, we would have seen how these countries with high GDPs and high number of citizens have grown over 10 years in both sectors. We would also see the relationship between these indicators and cross examine the living situations in these countries.
+
+A dashboard analysis and a statistical analysis is done and the datasets used for these analysis are uploaded as well.
