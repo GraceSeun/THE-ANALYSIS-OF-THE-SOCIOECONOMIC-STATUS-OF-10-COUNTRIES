@@ -1,4 +1,4 @@
-STATISTICAL ANALYSIS OF THE SOCIOECONOMIC STATUS OF THE G7 COUNTRIES, BRAZIL, CHINA, AND NIGERIA ACROSS TEN YEARS
+DASHBOARD AND STATISTICAL ANALYSIS OF THE SOCIOECONOMIC STATUS OF THE G7 COUNTRIES, BRAZIL, CHINA, AND NIGERIA ACROSS TEN YEARS
 
 The Social and Economic development of a country is measured over different indicators in different sector which ranges from the health sector to the educational sector to the import and export sector, even the self-development sector also known as the Human Development Sector and so much more.
 
